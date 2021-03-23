@@ -1,8 +1,7 @@
 # Slack Notifications
 
-![License](https://img.shields.io/github/license/plywoodpirate/slack_notifications)
-![Version](https://img.shields.io/github/v/release/plywoodpirate/slack_notifications)
-![Language](https://img.shields.io/github/languages/top/plywoodpirate/slack_notifications)
+![](https://img.shields.io/github/license/Plywoodpirate/slack_notifications)
+![](https://img.shields.io/github/languages/top/Plywoodpirate/slack_notifications)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 
