@@ -99,7 +99,7 @@ class SlackNotificationWriter extends AbstractWriter implements WriterInterface
 
         if (empty($record['data'])) {
             // send a simple slack message
-            $blockData = sprintf("{'text': '%s'}", $message);
+            $blockData = sprintf("{'text': '%s'}", $record['message']);
         } elseif ($record['data']['block'] === SlackBlockUtility::SECTION) {
             $blockData = SlackBlockUtility::composeSectionBlock(
                 $record['message'],
