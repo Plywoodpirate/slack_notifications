@@ -26,7 +26,7 @@ server).
 
 ### Setup Slack WebHook
 
-Please follow the [official documentation](slack-webhook) to setup your webhook.
+Please follow the [official documentation][slack-webhook] to setup your webhook.
 
 Copy the webhook URL, you will need it later.
 
@@ -68,7 +68,7 @@ $GLOBALS['TYPO3_CONF_VARS']['LOG']['Ion2s']['processorConfiguration'] = [
 
 ## Built With
 
-* [composer](http://lxml.de/) \
+* [composer](https://getcomposer.org/) \
   *is a tool for dependency management in PHP.*
 * [PHP 7.x](https://www.php.net/) \
   *is a popular general-purpose scripting language.*
