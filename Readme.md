@@ -104,11 +104,11 @@ this project.
 This project is licensed under the [Apache 2.0 License](LICENSE.md).
 
 
-[github]: https://github.com/michagrandel
+[github]: https://github.com/Plywoodpirate
 
-[github-releases]: https://github.com/michagrandel/slack_notifications/releases
+[github-releases]: https://github.com/Plywoodpirate/slack_notifications/releases
 
-[github-contributors]: https://github.com/michagrandel/slack_notifications/graphs/contributors
+[github-contributors]: https://github.com/Plywoodpirate/slack_notifications/graphs/contributors
 
 [gitflow]: https://danielkummer.github.io/git-flow-cheatsheet/
 
