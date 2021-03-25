@@ -3,7 +3,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Slack notifications for TYPO3',
     'description' => 'Send notifications from TYPO3 to slack',
-    'version' => '0.1.0',
+    'version' => '1.0.0',
     'state' => 'alpha',
     'category' => 'plugin',
     'author' => 'Micha Grandel',
