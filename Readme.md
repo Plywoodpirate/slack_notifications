@@ -90,27 +90,18 @@ the [Code of Conduct][CODE_OF_CONDUCT.md].
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [releases on this repository][github-releases].
+see the [releases on this repository][releases].
 
 ## Authors
 
 * **Micha Grandel** - *Author and maintainer* - [Github][github]
 
-We thank all of our [contributors][github-contributors], who participated in
-this project.
-
 ## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE.md).
 
-
 [github]: https://github.com/Plywoodpirate
-
-[github-releases]: https://github.com/Plywoodpirate/slack_notifications/releases
-
-[github-contributors]: https://github.com/Plywoodpirate/slack_notifications/graphs/contributors
-
+[releases]: https://git.plywoodpirate.de/Plywoodpirate/slack_notifications/releases
 [gitflow]: https://danielkummer.github.io/git-flow-cheatsheet/
-
 [gitflow-model]: http://nvie.com/posts/a-successful-git-branching-model/
 [slack-webhook]: https://api.slack.com/messaging/webhooks
