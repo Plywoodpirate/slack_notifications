@@ -3,7 +3,7 @@
   "description": "Send notifications to a slack channel",
   "type": "typo3-cms-extension",
   "license": "GPL-2.0-or-later",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Micha Grandel",
